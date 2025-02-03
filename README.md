@@ -16,5 +16,5 @@ A fun and interactive Simon Game built using HTML, CSS, and JavaScript.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rishika-04/simon_game.git
+   https://github.com/prakrati646/simon_game.git
 2. Open index.html in your browser to play.
